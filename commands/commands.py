@@ -1,5 +1,5 @@
 import time
-from temperature import temper
+from commands.temperature import temper
 import telegram
 from telegram.ext import CommandHandler
 
