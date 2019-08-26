@@ -1,5 +1,5 @@
 import time
-from testbot3432bot_pro.commands.temperature import temper
+from temperature import temper
 import telegram
 from telegram.ext import CommandHandler
 
