@@ -3,7 +3,7 @@ from telegram.ext import CommandHandler, CallbackQueryHandler, MessageHandler, F
 from telegram import InlineKeyboardButton, InlineKeyboardMarkup
 from telegram import KeyboardButton, ReplyKeyboardMarkup
 import logging
-from testbot3432bot_pro.commands import commands
+from commands import commands
 #######################################  Bot  #####################################################
 def start(bot, update):
     update.message.reply_text(start_message(),
