@@ -9,7 +9,7 @@ Django==2.2.4
 future==0.17.1
 idna==2.8
 MouseInfo==0.0.4
-Pillow==6.1.0
+Pillow==6.2.0
 PyAutoGUI==0.9.47
 pycparser==2.19
 pygame==1.9.6
